@@ -1,4 +1,4 @@
-# Data-Analyst-Daily-Transactions-
+# Data-Analyst-Daily-Transactions
 Analyzed daily financial transactions to uncover spending patterns, detect anomalies, and generate actionable insights using Python and data visualization tools.    
 
 This project focuses on analyzing daily financial transactions to uncover meaningful insights into personal or business spending behavior. The analysis was done using Python in a Jupyter Notebook, covering key steps such as:
